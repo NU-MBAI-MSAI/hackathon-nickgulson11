@@ -1,6 +1,6 @@
 def countchars(st):
     count = 0
-    if st == ""
+    if st == "":
         return 0
     for i in st:
         if i not in [' ', '.', '!', ',']:
